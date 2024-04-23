@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+body {
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
 .cabecalho {
     background-image: linear-gradient(#D72C7E, #764EE9);
     color:  white;
@@ -40,4 +46,8 @@
 
 .escola-titulo {
     padding: 24px 0;
+}
+
+.estudante-imagem {
+    width: 120px;
 }
