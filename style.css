@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color:  #171922;
+    background-image: linear-gradient(#D72C7E, #764EE9);
     color:  white;
     display: flex;
     justify-content: space-around;
@@ -12,11 +12,32 @@
 }
 
 .cabecalho-imagem {
-    width: 30%;
+    width: 15%;
 }
 
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 20px;
     font-size: 18px;
+}
+
+.escola-imagem {
+    width: 20%
+}
+
+.escola {
+    background-image: linear-gradient(#D72C7E, #764EE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.escola-div-conteudo {
+    width: 40%;
+}
+
+.escola-titulo {
+    padding: 24px 0;
 }
